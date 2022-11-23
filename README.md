@@ -9,7 +9,7 @@
 - 👩🏻‍🎓 Fullstack Web Developer @ UpLeveled
 - 🌱 I’m currently learning JavaScript, TypeScript, next.js, React.js, Node.js, PostgresQL, Emotion, Jest, Playwright
 - 📫 How to reach me ►►► <a href="https://www.linkedin.com/in/judy-heisler-72bb0b222/">LinkedIn</a>
-- 🐶 Dogs? Yes!
+
 
 #
 
