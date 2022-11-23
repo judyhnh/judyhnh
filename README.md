@@ -1,7 +1,7 @@
  # <p align="center"> <b>Hi, I'm Judy!</b> 👋 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=C334A5&width=435&lines=My+ultimate+goal+is+to+be+better+;today+than+yesterday%2C+everyday." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=C334A5&width=435&lines=My+ultimate+goal+is+to+be+better+;today+than+yesterday%2C+every+day." alt="Typing SVG" /></a>
 </p>
 
 ---
